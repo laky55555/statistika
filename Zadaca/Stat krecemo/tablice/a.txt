@@ -1,0 +1,274 @@
+"Spol","Koliko.imas.godina.","Zavrsio.si.","sto.mislis.koliko.ima.gradova.u.Hrvatskoj.","mislis.li.da.je.udaljenost.od.Zagreba.do.Pariza.veÄ.a.od.3000.km.","sto.mislis.kolika.je.ta.udaljenost."
+"1","musko",17,"Fakultet",10,"Ne",2000
+"2","zensko",19,"Srednju skolu",107,"Ne",573
+"3","zensko",19,"Srednju skolu",50,"Da",6000
+"4","zensko",19,"Srednju skolu",50,"Da",2000
+"5","zensko",20,"Srednju skolu",200,"Ne",2000
+"6","zensko",20,"Srednju skolu",200,"Ne",2000
+"7","zensko",20,"Srednju skolu",150,"Ne",1000
+"8","zensko",20,"Srednju skolu",127,"Ne",1500
+"9","zensko",20,"Srednju skolu",100,"Da",3500
+"10","zensko",20,"Srednju skolu",100,"Ne",1400
+"11","zensko",20,"Srednju skolu",91,"Ne",2000
+"12","musko",20,"Srednju skolu",80,"Ne",2500
+"13","zensko",20,"Srednju skolu",76,"Ne",2700
+"14","zensko",20,"Srednju skolu",30,"Ne",1500
+"15","zensko",21,"Srednju skolu",1500,"Ne",2000
+"16","zensko",21,"Srednju skolu",1500,"Da",3500
+"17","zensko",21,"Srednju skolu",1200,"Ne",2500
+"18","zensko",21,"Srednju skolu",1000,"Ne",2150
+"19","musko",21,"Srednju skolu",1000,"Da",5000
+"20","zensko",21,"Srednju skolu",1000,"Da",4000
+"21","zensko",21,"Srednju skolu",625,"Ne",1500
+"22","zensko",21,"Srednju skolu",500,"Da",5000
+"23","musko",21,"Srednju skolu",500,"Ne",1500
+"24","zensko",21,"Srednju skolu",500,"Da",5000
+"25","musko",21,"Srednju skolu",450,"Da",5000
+"26","musko",21,"Srednju skolu",400,"Ne",2500
+"27","musko",21,"Srednju skolu",350,"Da",3200
+"28","zensko",21,"Srednju skolu",343,"Ne",2343
+"29","zensko",21,"Srednju skolu",300,"Ne",2995
+"30","zensko",21,"Srednju skolu",280,"Ne",1500
+"31","zensko",21,"Srednju skolu",250,"Ne",1500
+"32","zensko",21,"Srednju skolu",250,"Ne",2500
+"33","zensko",21,"Srednju skolu",223,"Ne",1000
+"34","zensko",21,"Srednju skolu",200,"Ne",2500
+"35","zensko",21,"Srednju skolu",200,"Ne",2000
+"36","zensko",21,"Srednju skolu",200,"Ne",700
+"37","zensko",21,"Srednju skolu",200,"Ne",1900
+"38","musko",21,"Srednju skolu",200,"Ne",2200
+"39","zensko",21,"Srednju skolu",198,"Ne",2000
+"40","zensko",21,"Srednju skolu",180,"Ne",1800
+"41","musko",21,"Srednju skolu",172,"Ne",2300
+"42","musko",21,"Srednju skolu",160,"Ne",2500
+"43","musko",21,"Srednju skolu",153,"Ne",2500
+"44","musko",21,"Srednju skolu",150,"Ne",2300
+"45","musko",21,"Srednju skolu",150,"Ne",2000
+"46","zensko",21,"Srednju skolu",150,"Da",3200
+"47","musko",21,"Srednju skolu",150,"Da",6000
+"48","musko",21,"Srednju skolu",150,"Ne",1500
+"49","musko",21,"Srednju skolu",147,"Ne",2433
+"50","musko",21,"Srednju skolu",140,"Ne",2500
+"51","musko",21,"Srednju skolu",139,"Ne",222
+"52","zensko",21,"Srednju skolu",134,"Ne",1500
+"53","musko",21,"Srednju skolu",131,"Ne",1500
+"54","zensko",21,"Srednju skolu",130,"Da",5000
+"55","zensko",21,"Srednju skolu",130,"Ne",1500
+"56","musko",21,"Srednju skolu",130,"Ne",1000
+"57","musko",21,"Srednju skolu",129,"Ne",1000
+"58","musko",21,"Srednju skolu",128,"Ne",1500
+"59","zensko",21,"Srednju skolu",128,"Ne",2000
+"60","musko",21,"Srednju skolu",128,"Da",4200
+"61","musko",21,"Srednju skolu",128,"Ne",1300
+"62","musko",21,"Srednju skolu",128,"Ne",1700
+"63","musko",21,"Srednju skolu",128,"Ne",1500
+"64","zensko",21,"Srednju skolu",127,"Ne",2800
+"65","musko",21,"Srednju skolu",127,"Ne",1500
+"66","zensko",21,"Srednju skolu",127,"Ne",14000
+"67","zensko",21,"Srednju skolu",125,"Ne",2000
+"68","zensko",21,"Srednju skolu",125,"Ne",1000
+"69","musko",21,"Srednju skolu",123,"Ne",1750
+"70","musko",21,"Srednju skolu",121,"Ne",2780
+"71","musko",21,"Srednju skolu",120,"Ne",1500
+"72","musko",21,"Srednju skolu",120,"Ne",1500
+"73","zensko",21,"Srednju skolu",120,"Ne",1500
+"74","musko",21,"Srednju skolu",105,"Ne",2000
+"75","musko",21,"Srednju skolu",100,"Ne",1095
+"76","musko",21,"Srednju skolu",100,"Ne",1300
+"77","musko",21,"Srednju skolu",100,"Da",1000
+"78","zensko",21,"Srednju skolu",100,"Da",5000
+"79","zensko",21,"Srednju skolu",100,"Ne",1500
+"80","zensko",21,"Srednju skolu",90,"Ne",2500
+"81","zensko",21,"Srednju skolu",80,"Ne",2000
+"82","zensko",21,"Srednju skolu",80,"Ne",2000
+"83","zensko",21,"Srednju skolu",72,"Ne",635
+"84","zensko",21,"Srednju skolu",70,"Ne",1000
+"85","musko",21,"Srednju skolu",60,"Ne",1500
+"86","zensko",21,"Srednju skolu",58,"Ne",1500
+"87","musko",21,"Srednju skolu",50,"Ne",1500
+"88","zensko",21,"Srednju skolu",50,"Ne",3600
+"89","zensko",21,"Srednju skolu",42,"Ne",1800
+"90","zensko",21,"Srednju skolu",35,"Ne",2000
+"91","musko",21,"Srednju skolu",31,"Ne",1867
+"92","zensko",22,"Srednju skolu",5000,"Ne",2750
+"93","zensko",22,"Srednju skolu",1500,"Ne",1785
+"94","musko",22,"Srednju skolu",1000,"Ne",1500
+"95","zensko",22,"Srednju skolu",1000,"Ne",1800
+"96","zensko",22,"Srednju skolu",500,"Da",3500
+"97","zensko",22,"Srednju skolu",400,"Ne",700
+"98","zensko",22,"Srednju skolu",300,"Ne",1000
+"99","zensko",22,"Srednju skolu",220,"Da",4000
+"100","zensko",22,"Srednju skolu",200,"Ne",1500
+"101","zensko",22,"Srednju skolu",200,"Ne",3000
+"102","musko",22,"Srednju skolu",200,"Da",5000
+"103","zensko",22,"Srednju skolu",180,"Ne",1600
+"104","zensko",22,"Srednju skolu",150,"Da",4500
+"105","zensko",22,"Srednju skolu",150,"Ne",2300
+"106","musko",22,"Srednju skolu",149,"Ne",1200
+"107","zensko",22,"Srednju skolu",138,"Ne",2000
+"108","zensko",22,"Srednju skolu",128,"Ne",1500
+"109","zensko",22,"Srednju skolu",128,"Da",4000
+"110","zensko",22,"Srednju skolu",128,"Ne",1400
+"111","zensko",22,"Srednju skolu",127,"Ne",1500
+"112","zensko",22,"Srednju skolu",127,"Ne",2400
+"113","zensko",22,"Srednju skolu",126,"Ne",1500
+"114","zensko",22,"Srednju skolu",125,"Ne",2890
+"115","zensko",22,"Srednju skolu",123,"Ne",2000
+"116","musko",22,"Srednju skolu",120,"Ne",1000
+"117","zensko",22,"Srednju skolu",120,"Ne",1200
+"118","musko",22,"Srednju skolu",115,"Ne",1400
+"119","zensko",22,"Srednju skolu",100,"Ne",2000
+"120","zensko",22,"Srednju skolu",100,"Ne",2000
+"121","zensko",22,"Srednju skolu",98,"Ne",2579
+"122","zensko",22,"Srednju skolu",87,"Ne",2600
+"123","zensko",22,"Srednju skolu",84,"Ne",2200
+"124","musko",22,"Srednju skolu",82,"Ne",2600
+"125","zensko",22,"Srednju skolu",80,"Ne",1000
+"126","zensko",22,"Srednju skolu",128,"Ne",980
+"127","zensko",23,"Srednju skolu",1000,"Ne",1500
+"128","musko",23,"Srednju skolu",180,"Ne",1500
+"129","zensko",23,"Srednju skolu",150,"Ne",1700
+"130","zensko",23,"Srednju skolu",150,"Ne",2100
+"131","zensko",23,"Srednju skolu",128,"Da",10000
+"132","zensko",23,"Srednju skolu",128,"Da",3001
+"133","zensko",23,"Srednju skolu",128,"Ne",1500
+"134","zensko",23,"Srednju skolu",100,"Ne",2500
+"135","zensko",23,"Srednju skolu",50,"Ne",2000
+"136","zensko",23,"Srednju skolu",50,"Ne",2000
+"137","zensko",23,"Srednju skolu",46,"Ne",2672
+"138","zensko",23,"Srednju skolu",45,"Ne",1500
+"139","musko",23,"Srednju skolu",40,"Ne",1500
+"140","musko",23,"Fakultet",70,"Da",3000
+"141","zensko",24,"Srednju skolu",120,"Ne",1000
+"142","musko",24,"Srednju skolu",70,"Ne",2000
+"143","musko",24,"Fakultet",70,"Ne",1800
+"144","zensko",25,"Srednju skolu",25,"Ne",1300
+"145","zensko",25,"Srednju skolu",125,"Ne",1300
+"146","musko",26,"Fakultet",90,"Ne",2500
+"147","musko",26,"Srednju skolu",126,"Ne",1500
+"148","zensko",27,"Srednju skolu",100,"Ne",1700
+"149","musko",28,"Srednju skolu",300,"Ne",2000
+"150","zensko",28,"Srednju skolu",500,"Ne",2500
+"151","zensko",29,"Srednju skolu",30,"Ne",1000
+"152","musko",29,"Srednju skolu",80,"Da",3500
+"153","musko",30,"Srednju skolu",70,"Ne",2000
+"154","musko",30,"Srednju skolu",180,"Ne",1500
+"155","zensko",31,"Fakultet",130,"Ne",1000
+"156","zensko",31,"Fakultet",52,"Ne",1000
+"157","musko",31,"Fakultet",30,"Ne",2000
+"158","zensko",32,"Fakultet",20,"Ne",2000
+"159","musko",34,"Fakultet",150,"Ne",1000
+"160","musko",34,"Fakultet",100,"Ne",2000
+"161","zensko",34,"Fakultet",130,"Ne",1600
+"162","zensko",34,"Fakultet",350,"Ne",1600
+"163","zensko",35,"Fakultet",300,"Da",3500
+"164","zensko",35,"Fakultet",127,"Ne",1426
+"165","musko",35,"Fakultet",150,"Ne",1500
+"166","zensko",35,"Fakultet",150,"Ne",1500
+"167","zensko",36,"Fakultet",50,"Ne",2800
+"168","musko",36,"Fakultet",95,"Ne",1850
+"169","zensko",37,"Fakultet",103,"Ne",1863
+"170","zensko",37,"Fakultet",100,"Ne",2500
+"171","musko",37,"Fakultet",200,"Ne",2000
+"172","zensko",37,"Fakultet",50,"Ne",1200
+"173","musko",37,"Srednju skolu",150,"Ne",2000
+"174","musko",37,"Srednju skolu",150,"Ne",1000
+"175","zensko",38,"Fakultet",20,"Ne",1000
+"176","musko",38,"Fakultet",45,"Ne",2200
+"177","zensko",38,"Srednju skolu",3000,"Ne",2250
+"178","zensko",38,"Fakultet",90,"Ne",1500
+"179","musko",39,"Fakultet",40,"Ne",1200
+"180","zensko",39,"Fakultet",300,"Da",5000
+"181","musko",39,"Fakultet",130,"Ne",1400
+"182","musko",40,"Fakultet",125,"Ne",1400
+"183","zensko",40,"Srednju skolu",90,"Da",5000
+"184","zensko",40,"Fakultet",130,"Ne",1500
+"185","musko",41,"Srednju skolu",85,"Ne",1500
+"186","zensko",27,"Fakultet",10,"Ne",2000
+"187","zensko",41,"Srednju skolu",105,"Ne",1500
+"188","musko",42,"Fakultet",100,"Ne",1000
+"189","zensko",33,"Fakultet",50,"Da",4500
+"190","zensko",42,"Fakultet",120,"Ne",800
+"191","zensko",42,"Fakultet",100,"Ne",2000
+"192","zensko",43,"Srednju skolu",100,"Ne",2000
+"193","musko",43,"Srednju skolu",200,"Ne",1100
+"194","zensko",44,"Fakultet",180,"Ne",1200
+"195","musko",44,"Srednju skolu",58,"Ne",1250
+"196","zensko",45,"Fakultet",200,"Ne",1500
+"197","zensko",45,"Srednju skolu",120,"Ne",2300
+"198","zensko",45,"Srednju skolu",110,"Ne",1300
+"199","zensko",46,"Fakultet",500,"Ne",2000
+"200","zensko",46,"Srednju skolu",120,"Ne",2000
+"201","zensko",47,"Srednju skolu",100,"Ne",1500
+"202","zensko",47,"Fakultet",47,"Ne",1670
+"203","zensko",48,"Srednju skolu",270,"Ne",2000
+"204","zensko",48,"Fakultet",70,"Ne",1500
+"205","musko",48,"Fakultet",100,"Ne",2000
+"206","zensko",49,"Fakultet",1500,"Ne",35
+"207","musko",49,"Srednju skolu",60,"Ne",1500
+"208","zensko",50,"Srednju skolu",980,"Ne",2000
+"209","musko",50,"Srednju skolu",200,"Ne",2000
+"210","musko",50,"Fakultet",35,"Ne",1300
+"211","zensko",51,"Fakultet",200,"Ne",2500
+"212","musko",51,"Srednju skolu",129,"Ne",1500
+"213","musko",51,"Fakultet",120,"Ne",1400
+"214","musko",52,"Fakultet",150,"Ne",1500
+"215","zensko",52,"Srednju skolu",670,"Ne",1800
+"216","musko",53,"Srednju skolu",164,"Ne",2500
+"217","musko",54,"Srednju skolu",950,"Ne",1800
+"218","musko",54,"Srednju skolu",50,"Ne",2200
+"219","musko",55,"Srednju skolu",100,"Ne",1500
+"220","musko",55,"Srednju skolu",50,"Ne",2000
+"221","zensko",56,"Fakultet",120,"Ne",1000
+"222","musko",56,"Srednju skolu",310,"Ne",1750
+"223","musko",56,"Fakultet",200,"Ne",1500
+"224","zensko",57,"Srednju skolu",150,"Ne",1500
+"225","zensko",57,"Srednju skolu",128,"Ne",3100
+"226","zensko",57,"Fakultet",150,"Ne",1100
+"227","zensko",58,"Srednju skolu",500,"Ne",1200
+"228","zensko",59,"Fakultet",300,"Ne",2000
+"229","musko",59,"Fakultet",200,"Ne",2800
+"230","musko",59,"Srednju skolu",128,"Ne",1500
+"231","zensko",59,"Fakultet",100,"Ne",900
+"232","zensko",61,"Fakultet",118,"Ne",2000
+"233","zensko",61,"Srednju skolu",100,"Ne",1100
+"234","zensko",62,"Srednju skolu",85,"Ne",1800
+"235","musko",62,"Srednju skolu",25,"Ne",2000
+"236","musko",62,"Fakultet",128,"Ne",1500
+"237","zensko",62,"Fakultet",400,"Ne",1600
+"238","musko",63,"Fakultet",100,"Ne",1500
+"239","zensko",64,"Fakultet",50,"Ne",2500
+"240","musko",64,"Fakultet",58,"Ne",1250
+"241","zensko",64,"Srednju skolu",195,"Ne",2000
+"242","zensko",64,"Srednju skolu",12,"Da",5000
+"243","zensko",64,"Srednju skolu",300,"Ne",1000
+"244","zensko",65,"Srednju skolu",28,"Ne",2500
+"245","zensko",65,"Fakultet",300,"Ne",1000
+"246","zensko",65,"Fakultet",30,"Ne",1500
+"247","zensko",65,"Fakultet",90,"Ne",2800
+"248","musko",65,"Fakultet",50,"Ne",1500
+"249","musko",65,"Srednju skolu",150,"Ne",2500
+"250","musko",66,"Fakultet",125,"Ne",2890
+"251","zensko",66,"Srednju skolu",150,"Ne",1800
+"252","zensko",67,"Fakultet",111,"Ne",3000
+"253","zensko",67,"Srednju skolu",40,"Ne",2000
+"254","zensko",67,"Srednju skolu",70,"Ne",2000
+"255","zensko",67,"Fakultet",45,"Ne",1000
+"256","musko",68,"Srednju skolu",250,"Ne",1500
+"257","musko",68,"Srednju skolu",70,"Ne",2000
+"258","zensko",70,"Srednju skolu",300,"Ne",2300
+"259","zensko",71,"Fakultet",110,"Ne",1700
+"260","zensko",71,"Srednju skolu",260,"Da",1200
+"261","zensko",72,"Fakultet",50,"Ne",1000
+"262","zensko",73,"Srednju skolu",100,"Ne",1500
+"263","musko",73,"Fakultet",115,"Ne",2100
+"264","musko",74,"Fakultet",50,"Ne",1700
+"265","zensko",74,"Srednju skolu",30,"Ne",2000
+"266","musko",75,"Fakultet",180,"Ne",1800
+"267","musko",77,"Srednju skolu",60,"Ne",2250
+"268","musko",78,"Srednju skolu",90,"Ne",1800
+"269","musko",79,"Srednju skolu",28,"Ne",1500
+"270","zensko",80,"Srednju skolu",50,"Ne",1500
+"271","zensko",81,"Srednju skolu",120,"Ne",2000
+"272","zensko",83,"Fakultet",50,"Ne",1800
+"273","musko",25,"Srednju skolu",50,"Ne",1400

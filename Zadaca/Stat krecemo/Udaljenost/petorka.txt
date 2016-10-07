@@ -1,0 +1,7 @@
+udaljenost_sa_ureden petorka
+ Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  35    1500    1800    1964    2250    6000 
+
+udaljnost_bez petorka
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+     90    1000    1200    1397    1600    5675 

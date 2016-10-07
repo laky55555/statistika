@@ -1,0 +1,113 @@
+rbind(gradovi_sa_prvim,gradovi_sa_prviz), rbind(gradovi_sa_drugim,gradovi_sa_drugiz), 
+rbind(gradovi_sa_trecim,gradovi_sa_treciz), rbind(gradovi_sa_cetvrtim,gradovi_sa_cetvrtiz)
+
+
+
+summary(udaljnost_sa)
+summary(udaljenost_sa)
+summary(b[,4])
+View(trecim)
+udaljenost_sa_prvi<-subset(udaljenost_sa, udaljnost_sa[,2] <25)
+udaljenost_sa_prvi<-subset(udaljenost_sa, udaljenost_sa[,2] <25)
+udaljenost_sa_drugi<-subset(udaljenost_sa, udaljenost_sa[,2] <40)
+udaljenost_sa_drugi<-subset(udaljenost_sa, udaljenost_sa[,2] >24)
+udaljenost_sa_treci<-subset(udaljenost_sa, udaljenost_sa[,2] >39)
+udaljenost_sa_treci<-subset(udaljenost_sa, udaljenost_sa[,2] <60)
+udaljenost_sa_drugi<-subset(udaljenost_sa, udaljenost_sa[,2] <40)
+udaljenost_sa_drugi<-subset(udaljenost_sa_drugi, udaljenost_sa_drugi[,2] >24)
+udaljenost_sa_treci<-subset(udaljenost_sa, udaljenost_sa[,2] >39)
+udaljenost_sa_trecii<-subset(udaljenost_sa_treci, udaljenost_sa_treci[,2] <60)
+udaljenost_sa_treci<-subset(udaljenost_sa_treci, udaljenost_sa_treci[,2] <60)
+udaljenost_sa_trecii<-NULL
+udaljenost_sa_cetvrti<-subset(udaljenost_sa, udaljenost_sa[,2] >59)
+48+141+41+41
+View(udaljenost_sa_prvi)
+udaljenost_sa_prvim <- subset(udaljenost_sa_prvi, udaljenost_sa_prvi[,1] == "musko")
+View(udaljenost_sa_prvim)
+kraj <- udaljenost_sa_prvim[sample(nrow(udaljenost_sa_prvim), 20), ]
+summary(udaljenost_sa_prvim[,3])
+summary(kraj[,3])
+kraj <- udaljenost_sa_prvim[sample(nrow(udaljenost_sa_prvim), 20), ]
+summary(kraj[,3])
+udaljenost_sa_prvim <- kraj
+Lilliefors.test <- a[,4]
+lillieTest <- a[,4]
+lillieTest(a[,4])
+zt<-lillieTest(a[,4], title = NULL, description = NULL)
+library("mvtnorm", lib.loc="~/R/win-library/3.1")
+zt<-lillieTest(a[,4], title = NULL, description = NULL)
+ksnormTest(a[,4])
+install.packages("fBasics")
+lillieTest(a[,4])
+library("fBasics", lib.loc="~/R/win-library/3.1")
+lillieTest(a[,4])
+hist(a[,4])
+View(gradovi_sa_prvim)
+hist(a[,6])
+hist(b[,4])
+hist(b[,6])
+lillieTest(b[,6])
+lillieTest(b[,4])
+lillieTest(a[,6])
+zt <- b[,6]
+plot(zt)
+summary(zt)
+zt<-subset(zt, zt<700)
+lillieTest(zt)
+hist(zt)
+View(udaljenost_sa_prvim)
+View(udaljenost_sa_prvi)
+udaljenost_sa_prviz <- subset(udaljenost_sa_prvi, udaljenost_sa_prvi[,1] == "zensko")
+kraj <- udaljenost_sa_prviz[sample(nrow(udaljenost_sa_prviz), 20), ]
+summary(kraj[,3])
+summary(udaljenost_sa_prviz[,3])
+udaljenost_sa_prviz<-kraj
+udaljenost_sa_drugiz <- subset(udaljenost_sa_drugi, udaljenost_sa_drugi[,1] == "zensko")
+kraj <- udaljenost_sa_drugiz[sample(nrow(udaljenost_sa_drugiz), 20), ]
+summary(kraj[,3])
+summary(udaljenost_sa_drugiz[,3])
+udaljenost_sa_drugiz <- kraj
+View(udaljenost_sa_drugi)
+udaljenost_sa_drugim <- subset(udaljenost_sa_drugi, udaljenost_sa_drugi[,1] == "musko")
+kraj <- udaljenost_sa_drugim[sample(nrow(udaljenost_sa_drugim), 20), ]
+View(udaljenost_sa_drugim)
+kraj <- udaljenost_sa_drugiz[sample(nrow(udaljenost_sa_drugiz), 2), ]
+summary(udaljenost_sa_drugim[,3])
+summary(kraj[,3])
+kraj <- udaljenost_sa_drugiz[sample(nrow(udaljenost_sa_drugiz), 2), ]
+summary(kraj[,3])
+kraj <- udaljenost_sa_drugiz[sample(nrow(udaljenost_sa_drugiz), 2), ]
+summary(kraj[,3])
+kraj <- udaljenost_sa_drugiz[sample(nrow(udaljenost_sa_drugiz), 2), ]
+summary(kraj[,3])
+udaljenost_sa_drugim <- rbind(udaljenost_sa_drugim, kraj)
+udaljenost_sa_trecim <- subset(udaljenost_sa_treci, udaljenost_sa_treci[,1] == "musko")
+View(udaljenost_sa_trecim)
+kraj <- udaljenost_sa_trecim[sample(nrow(udaljenost_sa_trecim), 20), ]
+udaljenost_sa_trecim <- kraj
+udaljenost_sa_treciz <- subset(udaljenost_sa_treci, udaljenost_sa_treci[,1] == "zensko")
+kraj <- udaljenost_sa_treciz[sample(nrow(udaljenost_sa_treciz), 20), ]
+summary(kraj[,3])
+summary(udaljenost_sa_treciz[,3])
+udaljenost_sa_treciz <- kraj
+udaljenost_sa_cetvrtz <- subset(udaljenost_sa_cetvrti, udaljenost_sa_cetvrti[,1] == "zensko")
+kraj <- udaljenost_sa_treciz[sample(nrow(udaljenost_sa_cetvrtiz), 20), ]
+kraj <- udaljenost_sa_cetvrtiz[sample(nrow(udaljenost_sa_cetvrtiz), 20), ]
+udaljenost_sa_cetvrtiz <- subset(udaljenost_sa_cetvrti, udaljenost_sa_cetvrti[,1] == "zensko")
+udaljenost_sa_cetvrtz <- NULL
+kraj <- udaljenost_sa_cetvrtiz[sample(nrow(udaljenost_sa_cetvrtiz), 20), ]
+summary(kraj[,3])
+summary(udaljenost_sa_cetvrtiz[,3])
+udaljenost_sa_cetvrtiz<-kraj
+View(udaljenost_sa_drugiz)
+View(udaljenost_sa_drugim)
+View(udaljenost_sa_drugiz)
+q1<-a[,4]
+
+
+
+
+
+y <- c(gradovi_sa_prvi[,3], gradovi_sa_drugi[,3], gradovi_sa_treci[,3], gradovi_sa_cetvrti[,3])
+group <- as.factor(c(rep(1, length(gradovi_sa_prvi[,3])), rep(2, length(gradovi_sa_prvi[,3])),rep(3, length(gradovi_sa_prvi[,3])),rep(4, length(gradovi_sa_prvi[,3]))))
+leveneTest(y, group)

@@ -1,0 +1,147 @@
+lillefors za gradove bez predpitanja:
+Title:
+ Lilliefors (KS) Normality Test
+
+Test Results:
+  STATISTIC:
+    D: 0.2107
+  P VALUE:
+    < 2.2e-16 
+
+lillefors za gradove sa predpitanjem:
+Title:
+ Lilliefors (KS) Normality Test
+
+Test Results:
+  STATISTIC:
+    D: 0.1496
+  P VALUE:
+    2.393e-09 
+
+lillefors za gradove bez predpitanja s logaritmiranim podacima:
+Title: 
+ Lilliefors (KS) Normality Test
+
+Test Results:
+  STATISTIC:
+    D: 0.1294
+  P VALUE:
+    6.895e-07 
+
+lillefors za gradove sa predpitanjem s logaritmiranim podacima:
+Title:
+ Lilliefors (KS) Normality Test
+
+Test Results:
+  STATISTIC:
+    D: 0.0835
+  P VALUE:
+    0.008392 
+
+--------------------------------------------------------------------------
+
+
+T-test za gradove bez predpitanja i s alternativnom hipotezom da je broj veci od 128
+One Sample t-test
+
+data:  gradovi_bez_uredeno[, 3]
+t = 1.5242, df = 159, p-value = 0.06472
+alternative hypothesis: true mean is greater than 128
+95 percent confidence interval:
+ 126.9657      Inf
+sample estimates:
+mean of x 
+    140.1 
+
+
+
+T-test za gradove s predpitanjem i s alternativnom hipotezom da je broj veci od 128
+One Sample t-test
+
+data:  gradovi_sa_uredeno[, 3]
+t = 9.2938, df = 159, p-value < 2.2e-16
+alternative hypothesis: true mean is greater than 128
+95 percent confidence interval:
+ 236.527     Inf
+sample estimates:
+mean of x 
+ 260.0312 
+
+-------------------------------------------------------------------------------
+Levene test s obzirom na spol, bez predpitanja
+Levene's Test for Homogeneity of Variance (center = median)
+       Df F value Pr(>F)
+group   1  0.2165 0.6423
+      158         
+
+
+Levene test s obzirom na spol, s predpitanjem
+Levene's Test for Homogeneity of Variance (center = median)
+       Df F value  Pr(>F)  
+group   1  3.3796 0.06789 .
+      158                  
+
+-------------------------------------------------------------------------------
+Kruskal-Wallis s obzirom na spol, bez predpitanja
+Kruskal-Wallis rank sum test
+
+data:  y and group2
+Kruskal-Wallis chi-squared = 0.8718, df = 1, p-value = 0.3505
+
+
+Kruskal-Wallis s obzirom na spol, s predpitanjem
+Kruskal-Wallis rank sum test
+
+data:  x and group2
+Kruskal-Wallis chi-squared = 0.1996, df = 1, p-value = 0.655
+
+-------------------------------------------------------------------------------
+
+
+Levene test s obzirom na dob, bez predpitanja
+Levene's Test for Homogeneity of Variance (center = median)
+       Df F value Pr(>F)
+group   1  0.4451 0.5057
+      158               
+
+Levene test s obzirom na dob, s predpitanjem
+Levene's Test for Homogeneity of Variance (center = median)
+       Df F value Pr(>F)
+group   1  0.2458 0.6207
+      158                  
+
+-------------------------------------------------------------------------------
+Kruskal-Wallis s obzirom na dob, bez predpitanja
+Kruskal-Wallis rank sum test
+
+data:  x and group
+Kruskal-Wallis chi-squared = 0.0306, df = 1, p-value = 0.8611
+
+
+Kruskal-Wallis s obzirom na dob, s predpitanjem
+Kruskal-Wallis rank sum test
+
+data:  y and group
+Kruskal-Wallis chi-squared = 0.5681, df = 1, p-value = 0.451
+
+-------------------------------------------------------------------------------
+Asimptotski test
+Two-sample asymptotic difference of means test
+
+Two-sample asymptotic difference of means test
+
+data:  gradovi_sa_uredeno[, 3] and gradovi_bez_uredeno[, 3]
+statistic = 7.3695, p-value = 1.712e-13
+alternative hypothesis: true difference of means is not equal to 0
+95 percent confidence interval:
+  88.03497 151.82753
+sample estimates:
+difference of means 
+           119.9313 
+
+
+
+
+
+
+

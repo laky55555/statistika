@@ -1,0 +1,141 @@
+lillefors za udaljenost bez predpitanja:
+Title:
+ Lilliefors (KS) Normality Test
+
+Test Results:
+  STATISTIC:
+    D: 0.1374
+  P VALUE:
+    8.264e-08 
+
+
+lillefors za udaljenost sa predpitanjem:
+Title:
+ Lilliefors (KS) Normality Test
+
+Test Results:
+  STATISTIC:
+    D: 0.203
+  P VALUE:
+    < 2.2e-16 
+
+
+lillefors za udaljenost bez predpitanja s logaritmiranim podacima:
+Title:
+ Lilliefors (KS) Normality Test
+
+Test Results:
+  STATISTIC:
+    D: 0.131
+  P VALUE:
+    4.598e-07 
+
+
+
+lillefors za udaljenost sa predpitanjem s logaritmiranim podacima:
+Title:
+ Lilliefors (KS) Normality Test
+
+Test Results:
+  STATISTIC:
+    D: 0.1346
+  P VALUE:
+    1.773e-07 
+
+--------------------------------------------------------------------------
+
+
+T-test za udaljenost bez predpitanja i s alternativnom hipotezom da je broj veci od 1300
+One Sample t-test
+
+data:  udaljenost_bez_uredeno[, 3]
+t = 0.359, df = 159, p-value = 0.36
+alternative hypothesis: true mean is greater than 1300
+95 percent confidence interval:
+ 1238.108      Inf
+sample estimates:
+mean of x 
+  1317.15 
+
+T-test za udaljenost s predpitanjem i s alternativnom hipotezom da je broj veci od 128
+One Sample t-test
+
+data:  udaljenost_sa_uredeno[, 3]
+t = 9.2356, df = 159, p-value < 2.2e-16
+alternative hypothesis: true mean is greater than 1300
+95 percent confidence interval:
+ 1845.132      Inf
+sample estimates:
+mean of x 
+   1964.1 
+
+-------------------------------------------------------------------------------
+Levene test s obzirom na spol, bez predpitanja
+Levene's Test for Homogeneity of Variance (center = median)
+       Df F value Pr(>F)
+group   1  0.2165 0.6423
+      158         
+
+
+Levene test s obzirom na spol, s predpitanjem
+Levene's Test for Homogeneity of Variance (center = median)
+       Df F value  Pr(>F)  
+group   1  3.3796 0.06789 .
+      158       
+
+-------------------------------------------------------------------------------
+Kruskal-Wallis s obzirom na spol, bez predpitanja
+Kruskal-Wallis rank sum test
+
+data:  x and group2
+Kruskal-Wallis chi-squared = 0.8718, df = 1, p-value = 0.3505
+
+Kruskal-Wallis s obzirom na spol, s predpitanjem
+Kruskal-Wallis rank sum test
+
+data:  y and group2
+Kruskal-Wallis chi-squared = 0.1996, df = 1, p-value = 0.655
+
+-------------------------------------------------------------------------------
+
+
+Levene test s obzirom na dob, bez predpitanja
+ Levene's Test for Homogeneity of Variance (center = median)
+       Df F value Pr(>F)
+group   1  0.4451 0.5057
+      158               
+
+Levene test s obzirom na dob, s predpitanjem
+   Levene's Test for Homogeneity of Variance (center = median)
+       Df F value Pr(>F)
+group   1  0.2458 0.6207
+      158                    
+
+-------------------------------------------------------------------------------
+Kruskal-Wallis s obzirom na dob, bez predpitanja
+	Kruskal-Wallis rank sum test
+
+data:  x and group
+Kruskal-Wallis chi-squared = 0.0306, df = 1, p-value = 0.8611
+
+Kruskal-Wallis s obzirom na dob, s predpitanjem
+Kruskal-Wallis rank sum test
+
+data:  y and group
+Kruskal-Wallis chi-squared = 0.5681, df = 1, p-value = 0.451
+
+-------------------------------------------------------------------------------
+Asimptotski test
+Two-sample asymptotic difference of means test
+
+data:  udaljenost_sa_uredeno[, 3] and udaljenost_bez_uredeno[, 3]
+statistic = 7.4939, p-value = 6.684e-14
+alternative hypothesis: true difference of means is not equal to 0
+95 percent confidence interval:
+ 477.7463 816.1537
+sample estimates:
+difference of means 
+             646.95 
+
+
+

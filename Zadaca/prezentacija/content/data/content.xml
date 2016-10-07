@@ -1,0 +1,760 @@
+<zuiprezi>
+  <version>10</version>
+  <zui-table>
+    <settings>
+      
+      <autoplay>
+        
+        <delay>4000</delay>
+        
+      </autoplay>
+      
+      <bounds x="-43510.96898823307" y="-27115.137769404504" width="87021.93797646614" height="54230.27553880901"/>
+      <aspectratio>off</aspectratio>
+      <languages>
+        <language>es</language>
+      </languages>
+      <spellcheck active="false"/>
+      <mode type="normal"/>
+    </settings>
+    <object id="20" type="button" x="-2.1792218488261955e-12" y="0" r="0" s="90.53468370418867" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>962.2377622377622</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <parentTemplate>explain-a-topic-dark</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="OVERVIEW"/>
+      </layout>
+    </object>
+    <object id="0" type="button" x="-353.66097769268004" y="129.45880425763505" r="0" s="27.92489448336225" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>explain-a-topic-dark</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="3" type="button" x="-25575.920314913812" y="8751.393496326797" r="0" s="17.720059374513138" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>explain-a-topic-dark</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="4" type="shape" x="-14836.071376025977" y="6154.310541261928" r="-8.827870066716857" s="57.93444104473213" class="line3">
+      <geom type="arrow">
+        <sp>60.318608383180695 -5.833236783071967</sp>
+        <ep>-60.31860838318069 -5.833236783071997</ep>
+        <b>-11.666473566143964</b>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>explain-a-topic-dark</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="5" type="button" x="-19100.864949816558" y="-11704.406170220245" r="0" s="12.704650210802715" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>explain-a-topic-dark</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="6" type="button" x="22890.789499706036" y="1863.7515237712125" r="0" s="15.561590926687934" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>explain-a-topic-dark</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="7" type="shape" x="-12785.98745388581" y="-7975.736350492362" r="-151.75574892919897" s="57.93444104473197" class="line3">
+      <geom type="arrow">
+        <sp>-31.786658243000566 0</sp>
+        <ep>31.786658243000566 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>explain-a-topic-dark</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="8" type="shape" x="14071.016397856241" y="4550.785140156172" r="-177.0569971524504" s="57.93444104473243" class="line3">
+      <geom type="arrow">
+        <sp>44.442415108061475 7.338596070382925</sp>
+        <ep>-44.44241510806148 7.338596070382915</ep>
+        <b>14.67719214076584</b>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>explain-a-topic-dark</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="9" type="button" x="13845.39731190009" y="-14558.639228545395" r="0" s="16.15390030063018" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>explain-a-topic-dark</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="10" type="shape" x="8392.455818240203" y="-9034.9586717568" r="132.99171862535846" s="41.38174360338004" class="line3">
+      <geom type="arrow">
+        <sp>30 0</sp>
+        <ep>-30 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>explain-a-topic-dark</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="3_30863873" type="text" x="-25560.759250271836" y="3777.3942966544414" r="0" s="39.065159843240565" class="strong">
+      <height>27.59765625</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Opisna statistika]]></text>
+      </p>
+      <meta>
+        <parentTemplate>explain-a-topic-dark</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="title" parent-id="3"/>
+      </layout>
+    </object>
+    <object id="2_146207398" type="image" x="-28545.763697688268" y="7383.608298902886" r="0" s="20.853689099914778">
+      <source w="231" h="49">3526433048<url>3526433048.png</url></source>
+      <sourceUrl>petorka1.png</sourceUrl>
+    <resource><id>3526433048</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/8/7/4b35610030929abea894fae25042efbd03086.png</url></resource></object>
+    <object id="6_146207398" type="image" x="13845.933903682708" y="-16861.93304642065" r="0" s="7.777055566014594">
+      <source w="584" h="214">3527032304<url>3527032304.png</url></source>
+      <sourceUrl>udalj%20karak.png</sourceUrl>
+    <resource><id>3527032304</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/0/a/5ea6efd0840e1d4b049b91084ea78cb6075a0.png</url></resource></object>
+    <object id="7_30863873" type="text" x="13844.586278175524" y="-18333.540100272476" r="0" s="35.61244824289583" class="strong">
+      <height>27.59765625</height>
+      <width>248.45887589532944</width>
+      <p align="center">
+        <text><![CDATA[Anketa za udaljenost]]></text>
+      </p>
+      <meta>
+        <parentTemplate>explain-a-topic-dark</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="title" parent-id="9"/>
+      </layout>
+    </object>
+    <object id="11_30863873" type="text" x="22836.237420325364" y="-1276.2847746474931" r="0" s="34.306659143623115" class="strong">
+      <height>27.59765625</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Zaključak:]]></text>
+      </p>
+      <meta>
+        <parentTemplate>explain-a-topic-dark</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="title" parent-id="6"/>
+      </layout>
+    </object>
+    <object id="12_30863873" type="text" x="23287.731690985205" y="1682.0166976304438" r="0" s="19.794769169779364" class="body">
+      <height>82.79296875</height>
+      <width>435.6367019668206</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[razdiobe nisu normalne]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[koristeći statističke testove, odgovori ne ovise ni o spolu ni o dobi]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="6"/>
+      </layout>
+    </object>
+    <object id="13_30863873" type="text" x="8239.554836935073" y="18061.946138964497" r="0" s="198.38018106640575" class="head">
+      <height>27.59765625</height>
+      <width>319.38420314721475</width>
+      <p>
+        <text><![CDATA[Navođenje na krivi odgovor]]></text>
+      </p>
+    </object>
+    <object id="24_146207398" type="image" x="-21105.316805571067" y="-13084.673603099525" r="0" s="6.4244356233430935">
+      <source w="651" h="220">3526725764<url>3526725764.png</url></source>
+      <sourceUrl>fdas.png</sourceUrl>
+    <resource><id>3526725764</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/6/7/79b949599ce425649216a5e541cd46badd18f.png</url></resource></object>
+    <object id="14_30863873" type="text" x="-19258.107271072357" y="-15051.244253949384" r="0" s="30.809158074630577" class="strong">
+      <height>27.59765625</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Statistički testovi]]></text>
+      </p>
+      <meta>
+        <parentTemplate>explain-a-topic-dark</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="title" parent-id="5"/>
+      </layout>
+    </object>
+    <object id="1" type="text" x="15684.490967432928" y="22946.384507517934" r="0" s="61.562461137529134" class="strong">
+      <height>27.59765625</height>
+      <width>821.27481329681</width>
+      <p>
+        <text><![CDATA[Ana Lukačić,Magda Klarić,Kristina Kozić,Lovro Kunić,Ivan Laković]]></text>
+      </p>
+    </object>
+    <object id="0_146207398" type="image" x="11709.138899481755" y="-11033.722252924004" r="0" s="5.920545752095213">
+      <source w="440" h="352">3527030477<url>3527030477.png</url></source>
+      <sourceUrl>udalj%20box.png</sourceUrl>
+    <resource><id>3527030477</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/7/d/a33f29b97754661449c1e59b8e136411bec22.png</url></resource></object>
+    <object id="3_146207398" type="text" x="-28541.30141330816" y="6310.62158430107" r="0" s="15.061310228053411" class="strong">
+      <height>55.1953125</height>
+      <width>383.41411323788793</width>
+      <p>
+        <text><![CDATA[Karakteristična petorka za uzorak bez predpitanja]]></text>
+      </p>
+    </object>
+    <object id="4_146207398" type="text" x="-22416.171388208044" y="6310.352696383431" r="0" s="15.061310228053411" class="strong">
+      <height>55.1953125</height>
+      <width>383.41411323788793</width>
+      <p>
+        <text><![CDATA[Karakteristična petorka za uzorak s predpitanjem]]></text>
+      </p>
+    </object>
+    <object id="5_146207398" type="image" x="-22420.7133892807" y="7329.526975561407" r="0" s="21.244592613563203">
+      <source w="230" h="46">3526450583<url>3526450583.png</url></source>
+      <sourceUrl>petorka1.png</sourceUrl>
+    <resource><id>3526450583</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/b/0/1bd688b5b7579d94fb45374f45a7cc3a15920.png</url></resource></object>
+    <object id="12_146207398" type="image" x="-25510.319552717" y="10262.745791043013" r="0" s="8.532766926809542">
+      <source w="1163" h="417">3526518494<url>3526518494.png</url></source>
+      <sourceUrl>as.png</sourceUrl>
+    <resource><id>3526518494</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/b/a/f49ed0040dbb4549fb81e009d02348492bfc5.png</url></resource></object>
+    <object id="17_146207398" type="image" x="-23600.53247465924" y="13851.919380821388" r="0" s="2.696893822868366">
+      <source w="1054" h="337">3526612037<url>3526612037.png</url></source>
+      <sourceUrl>dsa.png</sourceUrl>
+    <resource><id>3526612037</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/b/c/5/777cde39100fab7de0b410d7c4a1d429b881a.png</url></resource></object>
+    <object id="18_146207398" type="image" x="-23600.53247465924" y="12868.68006967509" r="0" s="2.5036892819025045">
+      <source w="1140" h="365">3526613987<url>3526613987.png</url></source>
+      <sourceUrl>bvf.png</sourceUrl>
+    <resource><id>3526613987</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/d/e/815f9ab488140b5ee14a25dd2361a7a2e614e.png</url></resource></object>
+    <object id="19_146207398" type="text" x="-23992.700713691112" y="12510.58513703645" r="0" s="3.1821145388200964" class="head">
+      <height>27.59765625</height>
+      <width>114.1470032432354</width>
+      <p>
+        <text weight="normal"><![CDATA[Muškarci]]></text>
+      </p>
+    </object>
+    <object id="20_146207398" type="text" x="-22441.96879077426" y="12513.280388050835" r="0" s="3.1821145388200964" class="head">
+      <height>27.59765625</height>
+      <width>114.1470032432354</width>
+      <p>
+        <text weight="normal"><![CDATA[Žene]]></text>
+      </p>
+    </object>
+    <object id="21_146207398" type="text" x="-23989.620426817528" y="13493.96672142618" r="0" s="3.1821145388200964" class="head">
+      <height>27.59765625</height>
+      <width>114.1470032432354</width>
+      <p>
+        <text color="1657497" weight="normal"><![CDATA[Muškarci]]></text>
+      </p>
+    </object>
+    <object id="22_146207398" type="text" x="-22508.965030274572" y="13493.96672142618" r="0" s="3.1821145388200964" class="head">
+      <height>27.59765625</height>
+      <width>114.1470032432354</width>
+      <p>
+        <text color="1657497" weight="normal"><![CDATA[Žene]]></text>
+      </p>
+    </object>
+    <object id="26_146207398" type="text" x="-21104.961481294748" y="-13988.67898624966" r="0" s="9.801799547907684" class="strong">
+      <height>27.59765625</height>
+      <width>-268.5</width>
+      <p>
+        <text><![CDATA[Test normalne razdiobe]]></text>
+      </p>
+    </object>
+    <object id="27_146207398" type="image" x="-21105.010115578334" y="-10334.055746595486" r="0" s="5.097798666833118">
+      <source w="810" h="275">3526753349<url>3526753349.png</url></source>
+      <sourceUrl>t%20tesst.png</sourceUrl>
+    <resource><id>3526753349</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/c/2/142405af715d4c4924c40120c4f39b7384d9c.png</url></resource></object>
+    <object id="28_146207398" type="text" x="-21105.010115578334" y="-11207.527479700668" r="0" s="9.801799547907681" class="strong">
+      <height>27.59765625</height>
+      <width>-201.36328125</width>
+      <p>
+        <text><![CDATA[Jednostrani t-test]]></text>
+      </p>
+    </object>
+    <object id="29_146207398" type="image" x="-16802.541079042003" y="-13084.288567240328" r="0" s="6.00991875207155">
+      <source w="604" h="237">3526767392<url>3526767392.png</url></source>
+      <sourceUrl>t%20tesst.png</sourceUrl>
+    <resource><id>3526767392</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/3/6/032ffbb49d0ae3a1d18cda390565076774ef9.png</url></resource></object>
+    <object id="37_146207398" type="image" x="-16763.52488891722" y="-10307.647330611291" r="0" s="2.4069554472640293">
+      <source w="711" h="669">3529948181<url>3529948181.png</url></source>
+      <sourceUrl>h.png</sourceUrl>
+    <resource><id>3529948181</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/5/f/3bb1e9a5854dd47b3fafe7e3582a2806a2b3b.png</url></resource></object>
+    <object id="32_146207398" type="image" x="-20281.91762067779" y="-8544.523269375366" r="0" s="4.2717266313445">
+      <source w="555" h="405">3526836158<url>3526836158.png</url></source>
+      <sourceUrl>t%20tesst.png</sourceUrl>
+    <resource><id>3526836158</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/2/e/68a9e7ce78f4768f2301e49e8d3d1860cb079.png</url></resource></object>
+    <object id="33_146207398" type="image" x="-17188.924563746423" y="-8544.715787304964" r="0" s="4.98310686284705">
+      <source w="370" h="286">3526875077<url>3526875077.png</url></source>
+      <sourceUrl>t%20tesst.png</sourceUrl>
+    <resource><id>3526875077</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/6/5/86316bc1e561f30cacd82df363163689112ca.png</url></resource></object>
+    <object id="8_146207398" type="image" x="13846.203428784152" y="-13948.905750078087" r="0" s="8.133694569755832">
+      <source w="1281" h="409">3527034557<url>3527034557.png</url></source>
+      <sourceUrl>udalj%20ukupno.png</sourceUrl>
+    <resource><id>3527034557</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/e/6/b146d25876ad5cc900af61923c74a546ac8dc.png</url></resource></object>
+    <object id="16_146207398" type="image" x="15263.90168302905" y="-11033.80581875124" r="0" s="2.801373011030818">
+      <source w="763" h="665">3529778519<url>3529778519.png</url></source>
+      <sourceUrl>b.png</sourceUrl>
+    <resource><id>3529778519</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/5/0/3458b929cdbfeb48b13b9cb77377939cf963c.png</url></resource></object>
+    <object id="25_146207398" type="image" x="12582.839532088661" y="-9322.608550972516" r="0" s="1.5968813287471797">
+      <source w="862" h="583">3529857836<url>3529857836.png</url></source>
+      <sourceUrl>d.png</sourceUrl>
+    <resource><id>3529857836</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/c/a/42807d4d78449b575347e4f7c50edf43f8f0d.png</url></resource></object>
+    <object id="34_146207398" type="image" x="14615.60668290143" y="-9322.608550972516" r="0" s="1.512979744830388">
+      <source w="829" h="774">3529882046<url>3529882046.png</url></source>
+      <sourceUrl>f.png</sourceUrl>
+    <resource><id>3529882046</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/2/9/be0664efd81d2b9e419587844fdb0c7512e23.png</url></resource></object>
+    <object id="35_146207398" type="text" x="23287.683056701622" y="3142.590545790496" r="0" s="19.794769169779364" class="body">
+      <height>55.1953125</height>
+      <width>435.6367019668206</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[uspjeli smo utjecati na ljudu dajući im predpitanje]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="6"/>
+      </layout>
+    </object>
+    <object id="36_146207398" type="image" x="-27280.785981760324" y="13482.444728460581" r="0" s="3.1447059610808887">
+      <source w="795" h="622">3529935773<url>3529935773.png</url></source>
+      <sourceUrl>g.png</sourceUrl>
+    <resource><id>3529935773</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/9/c/d15ea92aa6cbc55fcf06f54ff6bea23cb1e87.png</url></resource></object>
+    <object id="7_146207398" type="text" x="501.75" y="-3589.35" r="0" s="34.306659143623115" class="body">
+      <height>82.79296875</height>
+      <width>553.7054040336827</width>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Ovisi li odgovor na pouđeno pitanje o informaciji prije samog pitanja?]]></text>
+      </p>
+    </object>
+    <object id="1_146207398" type="text" x="-1677.1" y="800" r="0" s="34.306659143623115" class="body">
+      <height>82.79296875</height>
+      <width>-352.171875</width>
+      <p>
+        <text><![CDATA[Način ispitivanja:]]></text>
+      </p>
+      <p>
+        <text><![CDATA[-online ankete]]></text>
+      </p>
+      <p>
+        <text><![CDATA[-nasumično ispitivanje prolaznika]]></text>
+      </p>
+    </object>
+    <object id="9_146207398" type="text" x="1070.1" y="5617.35" r="0" s="34.306659143623115" class="body">
+      <height>82.79296875</height>
+      <width>-192.140625</width>
+      <p>
+        <text><![CDATA[Obrada podataka:]]></text>
+      </p>
+      <p>
+        <text><![CDATA[-opisna statistika]]></text>
+      </p>
+      <p>
+        <text><![CDATA[-statistički testovi]]></text>
+      </p>
+    </object>
+    <object id="10_146207398" type="text" x="-284.25" y="-6052.4" r="0" s="65.68894490005526" class="body">
+      <height>27.59765625</height>
+      <width>68.843264866699</width>
+      <p>
+        <text><![CDATA[TEMA]]></text>
+      </p>
+    </object>
+  </zui-table>
+  <path>
+    <s>
+      <eagle o="20"/>
+    </s>
+    <s>
+      <eagle o="0"/>
+    </s>
+    <s>
+      <eagle o="3"/>
+    </s>
+    <s>
+      <eagle o="12_146207398"/>
+    </s>
+    <s>
+      <eagle o="36_146207398"/>
+    </s>
+    <s>
+      <eagle o="18_146207398"/>
+    </s>
+    <s>
+      <eagle o="17_146207398"/>
+    </s>
+    <s>
+      <eagle o="5"/>
+    </s>
+    <s>
+      <eagle o="24_146207398"/>
+    </s>
+    <s>
+      <eagle o="29_146207398"/>
+    </s>
+    <s>
+      <eagle o="27_146207398"/>
+    </s>
+    <s>
+      <eagle o="37_146207398"/>
+    </s>
+    <s>
+      <eagle o="32_146207398"/>
+    </s>
+    <s>
+      <eagle o="33_146207398"/>
+    </s>
+    <s>
+      <eagle o="9"/>
+    </s>
+    <s>
+      <eagle o="6_146207398"/>
+    </s>
+    <s>
+      <eagle o="8_146207398"/>
+    </s>
+    <s>
+      <eagle o="0_146207398"/>
+    </s>
+    <s>
+      <eagle o="16_146207398"/>
+    </s>
+    <s>
+      <eagle o="25_146207398"/>
+    </s>
+    <s>
+      <eagle o="34_146207398"/>
+    </s>
+    <s>
+      <eagle o="6"/>
+    </s>
+  </path>
+  <style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('Arimo-Regular.keg');
+	fontFamily: body;
+	font-class: body;
+	font-style: normal;
+	font-weight: normal;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Arimo-Bold.keg');
+	fontFamily: head;
+	font-class: head;
+	font-style: normal;
+	font-weight: bold;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Arimo-BoldItalic.keg');
+	fontFamily: strong;
+	font-class: strong;
+	font-style: italic;
+	font-weight: bold;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Arimo-Italic.keg');
+	fontFamily: undefined;
+	font-class: undefined;
+	font-style: italic;
+	font-weight: normal;
+	font-family: Arimo;
+}
+
+.line1
+{
+	color: #fff;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+.line2
+{
+	color: #8eb055;
+	gradEndColor: #8eb055;
+	gradStartColor: #8eb055;
+}
+
+.line3
+{
+	color: #7db7f2;
+	gradEndColor: #7db7f2;
+	gradStartColor: #7db7f2;
+}
+
+.line4
+{
+	color: #e3b241;
+	gradEndColor: #e3b241;
+	gradStartColor: #e3b241;
+}
+
+.line5
+{
+	color: #a85050;
+	gradEndColor: #a85050;
+	gradStartColor: #a85050;
+}
+
+.poly1
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	color: #2a2a2a;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+.poly2
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	color: #2a2a2a;
+	gradEndColor: #8eb055;
+	gradStartColor: #8eb055;
+}
+
+.poly3
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	color: #2a2a2a;
+	gradEndColor: #7db7f2;
+	gradStartColor: #7db7f2;
+}
+
+.poly4
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	color: #2a2a2a;
+	gradEndColor: #e3b241;
+	gradStartColor: #e3b241;
+}
+
+.poly5
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	color: #2a2a2a;
+	gradEndColor: #a85050;
+	gradStartColor: #a85050;
+}
+
+Background
+{
+	gradEnd: #000;
+	gradStart: #555;
+}
+
+Grid
+{
+	color: #5e5e5e;
+}
+
+ZArrow
+{
+	borderAlpha: 0;
+	borderColor: #333;
+	borderThickness: 1.5;
+	gradEndAlpha: .7;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+}
+
+ZCircle
+{
+	borderAlpha: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+ZCurveLine
+{
+	color: #000;
+}
+
+ZFrame.bracket
+{
+	gradEndAlpha: .4;
+	gradEndColor: #fff;
+	gradStartAlpha: .4;
+	gradStartColor: #fff;
+	padding: 1.03;
+	thickness: 5;
+}
+
+ZFrame.circle
+{
+	gradEndAlpha: .4;
+	gradEndColor: #fff;
+	gradStartAlpha: .4;
+	gradStartColor: #fff;
+	padding: 1.03;
+	thickness: 5;
+}
+
+ZFrame.roundrect
+{
+	borderAlpha: 0;
+	borderColor: #000;
+	borderThickness: 5;
+	gradEndAlpha: 0.3;
+	gradEndColor: #333;
+	gradStartAlpha: 0.3;
+	gradStartColor: #333;
+	padding: 1.03;
+	radius: 8;
+}
+
+ZLabel
+{
+	lockTintAlpha: 0.15;
+	padding: 1.2;
+}
+
+ZLabel.body
+{
+	color: #fff;
+	fontFamily: body;
+}
+
+ZLabel.body-background
+{
+	background-alpha: 0.9;
+	background-color: #333;
+	background-padding: 10;
+}
+
+ZLabel.head
+{
+	color: #7db7f2;
+	fontFamily: head;
+}
+
+ZLabel.head-background
+{
+	background-alpha: 0.9;
+	background-color: #000;
+	background-padding: 4;
+}
+
+ZLabel.strong
+{
+	color: #fff;
+	fontFamily: strong;
+}
+
+ZLabel.strong-background
+{
+	background-alpha: 0.8;
+	background-color: #e3b241;
+	background-padding: 4;
+}
+
+ZLine
+{
+	color: #333;
+	lockTintAlpha: 0;
+}
+
+ZMarker
+{
+	alpha: 0.6;
+	color: #a85050;
+}
+
+ZPath
+{
+	alpha: 1;
+	color: #40abe6;
+	textColor: #fff;
+	thickness: 3;
+}
+
+ZPath Ball.base
+{
+	alpha: 1;
+	fillColor: #40abe6;
+	radius: 12;
+}
+
+ZPath Ball.mid
+{
+	alpha: .5;
+	fillColor: #40abe6;
+	radius: 8;
+}
+
+ZPoly
+{
+	borderAlpha: 1;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+]]></style>
+  <hash>201f205f</hash>
+<sync><oid>kkiysn4prgo4</oid><title>copy-of-explain-any-topic</title><hash>201f205f</hash></sync><config>PXpxTKMPSD7KspxVsrPqLlKpXFeKMsn/3L5Y9u2NNiwDKjp+mUPe0U1Sl8F3Syb7/zu+85JBmHkzx0GUowh7xn5OudhaaWLBJ5zdhsTx7zL0pnSWg7VpE/MWrVOD7xK7hB07RlI02hVbCSWYv0wvvLrRbla3UptbkFtq7+Ay3WGL1k8VcPVosA1F9fOyeN+vgc6GxLQJ5qNmkT/R4tKL6kRKaJiC5IhABUKWoxjrifUpA6kb1PFXbEr5COn843eKyzpvHx6tR0+8TbLj3/vnTmGXT7c65+5Ay2KFLCIQJhIGLN6xeAE07jZ0fwtv2fZkfc2XF9vu0iJ72+Vzf8g1Wg==</config></zuiprezi>

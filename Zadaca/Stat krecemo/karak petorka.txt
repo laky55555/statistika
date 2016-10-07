@@ -1,0 +1,31 @@
+summary(Gradovit bez predpitanja) 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+   10.0    81.5   125.0   140.1   150.8   670.0 
+> summary(Gradovit s predpitanjem)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+   20.0   127.8   200.0   260.0   380.0  1000.0 
+> summary(Udaljenost bez predpitanja)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+     90     975    1200    1317    1500    3000 
+> summary(Udaljenost s predpitanjem)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+     35    1500    1750    1822    2000    4000 
+-------------------------------------------------
+
+Personova korelacija:  Gradovi bez predpitanja (odgovor i dob)
+ 0.1269958
+> Personova korelacija:  Gradovi bez predpitanja (odgovor i spol)
+ -0.002691359
+> Personova korelacija:  Gradovi s predpitanjem  (odgovor i dob)
+ 0.1334541
+> Personova korelacija:  Gradovi s predpitanjem  (odgovor i spol)
+ 0.007323151
+> Personova korelacija:  Udaljenost bez predpitanja)  (odgovor i dob)
+ -0.06305931
+> Personova korelacija:  Udaljenost bez predpitanja  (odgovor i spol)
+ 0.1022154
+> Personova korelacija:  Udaljenost s predpitanjem)  (odgovor i dob)
+ 0.05971025
+> Personova korelacija:  Udaljenost s predpitanjem  (odgovor i spol)
+ -0.1578584
+> 
